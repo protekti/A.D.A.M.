@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/937046403044212848/1300501475562356746/Frame_1000000821_1.png?ex=672111e1&is=671fc061&hm=23e48b4c339d5a90e7340f3d09e7e2859d80077a8956a47ab4421145ffb897ba&)
+![Logo](https://cdn.discordapp.com/attachments/937046403044212848/1300502071375691817/Frame_1000000821_2.png?ex=6721126f&is=671fc0ef&hm=7fac21a26d930122adaa104d8873d915f6b4487b003815562876e4c5ac0b6edd&)
 
 
 # A.D.A.M | Autonomous Driving and Assistance Model
